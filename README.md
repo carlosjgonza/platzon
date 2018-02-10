@@ -30,7 +30,7 @@ platzom("sometemos") // SoMeTeMoS
 ```
 
 ## Créditos
-- [Carlos González](www.sancrisoft.com)
+- [Carlos González](https://www.sancrisoft.com)
 
 ## Licencia
 [MIT](https://opensource.org/licenses/MIT)
