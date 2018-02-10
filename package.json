@@ -1,0 +1,25 @@
+{
+  "name": "platzon",
+  "version": "0.1.0",
+  "description": "Traductor de idioma platzon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlosjgonza/platzon.git"
+  },
+  "keywords": [
+    "traductor",
+    "platzon",
+    "curso",
+    "platzi"
+  ],
+  "author": "Carlos Gonzalez <carlosj.gonzalez28@gmail.com> (http://www.sancrisoft.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/carlosjgonza/platzon/issues"
+  },
+  "homepage": "https://github.com/carlosjgonza/platzon#readme"
+}
