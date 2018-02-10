@@ -2,10 +2,10 @@
   "name": "platzon",
   "version": "0.1.0",
   "description": "Traductor de idioma platzon",
-  "main": "index.js",
+  "main": "dist/src/platzon.js",
   "scripts": {
     "build": "babel src/platzon.js -d dist",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -25,6 +25,8 @@
   "homepage": "https://github.com/carlosjgonza/platzon#readme",
   "devDependencies": {
     "babel-cli": "6.26.0",
-    "babel-preset-env": "1.6.1"
+    "babel-preset-env": "1.6.1",
+    "chai": "4.1.2",
+    "mocha": "5.0.0"
   }
 }
